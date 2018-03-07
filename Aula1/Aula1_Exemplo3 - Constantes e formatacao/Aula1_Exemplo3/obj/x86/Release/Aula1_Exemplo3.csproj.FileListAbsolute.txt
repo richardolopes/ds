@@ -1,0 +1,4 @@
+D:\Tudo\2º\DS I\Aula1_Exemplo3 - Constantes e formatação\Aula1_Exemplo3\bin\Release\Aula1_Exemplo3.exe
+D:\Tudo\2º\DS I\Aula1_Exemplo3 - Constantes e formatação\Aula1_Exemplo3\bin\Release\Aula1_Exemplo3.pdb
+D:\Tudo\2º\DS I\Aula1_Exemplo3 - Constantes e formatação\Aula1_Exemplo3\obj\x86\Release\Aula1_Exemplo3.exe
+D:\Tudo\2º\DS I\Aula1_Exemplo3 - Constantes e formatação\Aula1_Exemplo3\obj\x86\Release\Aula1_Exemplo3.pdb

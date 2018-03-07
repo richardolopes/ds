@@ -1,0 +1,4 @@
+G:\Tudo\2º\DS I\Aula2_Exercicio5\Aula2_Exercicio5\bin\Debug\Aula2_Exercicio5.exe
+G:\Tudo\2º\DS I\Aula2_Exercicio5\Aula2_Exercicio5\bin\Debug\Aula2_Exercicio5.pdb
+G:\Tudo\2º\DS I\Aula2_Exercicio5\Aula2_Exercicio5\obj\x86\Debug\Aula2_Exercicio5.exe
+G:\Tudo\2º\DS I\Aula2_Exercicio5\Aula2_Exercicio5\obj\x86\Debug\Aula2_Exercicio5.pdb
