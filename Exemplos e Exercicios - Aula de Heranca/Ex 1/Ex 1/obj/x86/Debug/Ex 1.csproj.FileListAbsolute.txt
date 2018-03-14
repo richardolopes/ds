@@ -1,0 +1,4 @@
+G:\ETEC\2º\DS\AulaHeranca\Ex 1\Ex 1\bin\Debug\Ex 1.exe
+G:\ETEC\2º\DS\AulaHeranca\Ex 1\Ex 1\bin\Debug\Ex 1.pdb
+G:\ETEC\2º\DS\AulaHeranca\Ex 1\Ex 1\obj\x86\Debug\Ex 1.exe
+G:\ETEC\2º\DS\AulaHeranca\Ex 1\Ex 1\obj\x86\Debug\Ex 1.pdb
