@@ -15,7 +15,7 @@ Aula 1
 # 2018.03.13
 Aula de Herança - Exemplos e Exercícios
 - Exemplo de Herança
-- Exercício de Herança - 1
+- Exercício de Herança
 
 # 2018.03.20
 Aula de Herança e Polimorfismo
