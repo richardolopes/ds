@@ -20,3 +20,7 @@ Aula de Herança - Exemplos e Exercícios
 # 2018.03.20
 Aula de Herança e Polimorfismo
 - Exercício de Herança e Polimorfismo
+
+# 2018.04.03
+Atividade avaliativa
+- Atividade avaliativa de Polimorfismo
