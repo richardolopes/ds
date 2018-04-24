@@ -1,0 +1,9 @@
+E:\2018.04.24\calcula_media\calcula_media\bin\Debug\calcula_media.exe
+E:\2018.04.24\calcula_media\calcula_media\bin\Debug\calcula_media.pdb
+E:\2018.04.24\calcula_media\calcula_media\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2018.04.24\calcula_media\calcula_media\obj\x86\Debug\WindowsFormsApplication1.frmMedia.resources
+E:\2018.04.24\calcula_media\calcula_media\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\2018.04.24\calcula_media\calcula_media\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2018.04.24\calcula_media\calcula_media\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2018.04.24\calcula_media\calcula_media\obj\x86\Debug\calcula_media.exe
+E:\2018.04.24\calcula_media\calcula_media\obj\x86\Debug\calcula_media.pdb

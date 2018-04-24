@@ -1,0 +1,9 @@
+E:\2018.04.24\calculadora\calculadora\bin\Debug\calculadora.exe
+E:\2018.04.24\calculadora\calculadora\bin\Debug\calculadora.pdb
+E:\2018.04.24\calculadora\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2018.04.24\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+E:\2018.04.24\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\2018.04.24\calculadora\calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2018.04.24\calculadora\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2018.04.24\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+E:\2018.04.24\calculadora\calculadora\obj\x86\Debug\calculadora.pdb

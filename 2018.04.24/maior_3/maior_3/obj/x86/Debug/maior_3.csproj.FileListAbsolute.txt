@@ -1,0 +1,9 @@
+E:\2018.04.24\maior_3\maior_3\bin\Debug\maior_3.exe
+E:\2018.04.24\maior_3\maior_3\bin\Debug\maior_3.pdb
+E:\2018.04.24\maior_3\maior_3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2018.04.24\maior_3\maior_3\obj\x86\Debug\WindowsFormsApplication1.frmMaiorValorDeTres.resources
+E:\2018.04.24\maior_3\maior_3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\2018.04.24\maior_3\maior_3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2018.04.24\maior_3\maior_3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2018.04.24\maior_3\maior_3\obj\x86\Debug\maior_3.exe
+E:\2018.04.24\maior_3\maior_3\obj\x86\Debug\maior_3.pdb
