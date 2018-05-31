@@ -30,3 +30,9 @@ Interface gráfica
 - Calculadora Básica
 - Maior de três
 - Média
+
+# 2018.05.29
+Interface gráfica
+- MenuStrip
+- Tool Strip
+- Status Strip
