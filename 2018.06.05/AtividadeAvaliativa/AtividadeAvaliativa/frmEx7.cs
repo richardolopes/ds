@@ -21,6 +21,18 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+        
+        private void frmEx7_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("Deseja sair?", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+
+            }
+            else
+            {
+                e.Cancel = true;
+            }
+        }
 
         private void frmEx7_Load(object sender, EventArgs e)
         {
