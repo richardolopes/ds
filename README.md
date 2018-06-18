@@ -40,3 +40,7 @@ Interface gráfica
 - MenuStrip
 - Tool Strip
 - Status Strip
+
+# 2018.06.05
+Interface gráfica
+- Atividade avaliativa utilizando MenuStrip, Tool Strip, etc.
