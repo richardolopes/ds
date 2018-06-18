@@ -31,6 +31,10 @@ Interface gráfica
 - Maior de três
 - Média
 
+# 2018.05.10
+Interface gráfica
+- Calculadora feita ignorando a regra matemática da ordem das operações
+
 # 2018.05.29
 Interface gráfica
 - MenuStrip
