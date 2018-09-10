@@ -1,0 +1,4 @@
+C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.CidadeInteligente.03092018\Model\bin\Debug\Model.dll
+C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.CidadeInteligente.03092018\Model\bin\Debug\Model.pdb
+C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.CidadeInteligente.03092018\Model\obj\Debug\Model.dll
+C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.CidadeInteligente.03092018\Model\obj\Debug\Model.pdb
