@@ -24,7 +24,7 @@ namespace View
         /* Pessoas */
         private void listarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            PessoaListar tela = new PessoaListar();
+            Pessoa tela = new Pessoa();
             tela.MdiParent = this;
             tela.Show();
         }

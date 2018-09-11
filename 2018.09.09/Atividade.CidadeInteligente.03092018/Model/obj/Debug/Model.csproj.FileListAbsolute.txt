@@ -2,3 +2,7 @@ C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.Ci
 C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.CidadeInteligente.03092018\Model\bin\Debug\Model.pdb
 C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.CidadeInteligente.03092018\Model\obj\Debug\Model.dll
 C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\Atividade.CidadeInteligente.03092018\Model\obj\Debug\Model.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\Model\bin\Debug\Model.dll
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\Model\bin\Debug\Model.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\Model\obj\Debug\Model.dll
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\Model\obj\Debug\Model.pdb

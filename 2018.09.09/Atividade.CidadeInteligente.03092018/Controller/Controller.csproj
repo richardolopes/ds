@@ -40,6 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClienteOdbcDAO.cs" />
+    <Compile Include="FuncionarioOdbcDAO.cs" />
+    <Compile Include="PessoaDocumentoOdbcDAO.cs" />
     <Compile Include="PessoaOdbcDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

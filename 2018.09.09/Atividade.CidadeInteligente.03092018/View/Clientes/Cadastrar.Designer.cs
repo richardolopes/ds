@@ -1,6 +1,6 @@
-﻿namespace View.Documentos
+﻿namespace View.Clientes
 {
-    partial class DocumentoListar
+    partial class Cadastrar
     {
         /// <summary>
         /// Required designer variable.
@@ -28,34 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgvDocumentos = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvDocumentos)).BeginInit();
             this.SuspendLayout();
             // 
-            // dgvDocumentos
-            // 
-            this.dgvDocumentos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDocumentos.Location = new System.Drawing.Point(12, 12);
-            this.dgvDocumentos.Name = "dgvDocumentos";
-            this.dgvDocumentos.Size = new System.Drawing.Size(838, 213);
-            this.dgvDocumentos.TabIndex = 0;
-            // 
-            // DocumentoListar
+            // Cadastrar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(862, 237);
-            this.Controls.Add(this.dgvDocumentos);
-            this.Name = "DocumentoListar";
-            this.Text = "DocumentoListar";
-            this.Load += new System.EventHandler(this.DocumentoListar_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvDocumentos)).EndInit();
+            this.ClientSize = new System.Drawing.Size(731, 569);
+            this.Name = "Cadastrar";
+            this.Text = "Cadastrar";
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.DataGridView dgvDocumentos;
     }
 }

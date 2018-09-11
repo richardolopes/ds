@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clientes\Cadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\Cadastrar.Designer.cs">
+      <DependentUpon>Cadastrar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Clientes\ClienteCadastrar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +112,12 @@
     <Compile Include="Home.Designer.cs">
       <DependentUpon>Home.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pessoas\Pessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pessoas\Pessoa.Designer.cs">
+      <DependentUpon>Pessoa.cs</DependentUpon>
+    </Compile>
     <Compile Include="Pessoas\PessoaCadastrar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,8 +138,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Clientes\Cadastrar.resx">
+      <DependentUpon>Cadastrar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Clientes\ClienteCadastrar.resx">
       <DependentUpon>ClienteCadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\ClienteListar.resx">
+      <DependentUpon>ClienteListar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Documentos\DocumentoCadastrar.resx">
       <DependentUpon>DocumentoCadastrar.cs</DependentUpon>
@@ -135,14 +153,23 @@
     <EmbeddedResource Include="Documentos\DocumentoEditar.resx">
       <DependentUpon>DocumentoEditar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Documentos\DocumentoListar.resx">
+      <DependentUpon>DocumentoListar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Funcionarios\FuncionarioCadastrar.resx">
       <DependentUpon>FuncionarioCadastrar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Funcionarios\FuncionarioEditar.resx">
       <DependentUpon>FuncionarioEditar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Funcionarios\FuncionarioListar.resx">
+      <DependentUpon>FuncionarioListar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pessoas\Pessoa.resx">
+      <DependentUpon>Pessoa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pessoas\PessoaCadastrar.resx">
       <DependentUpon>PessoaCadastrar.cs</DependentUpon>

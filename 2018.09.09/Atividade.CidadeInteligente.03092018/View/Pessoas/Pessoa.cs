@@ -10,9 +10,9 @@ using System.Data.SqlClient;
 
 namespace View.Pessoas
 {
-    public partial class PessoaListar : Form
+    public partial class Pessoa : Form
     {
-        public PessoaListar()
+        public Pessoa()
         {
             InitializeComponent();
         }
@@ -35,9 +35,22 @@ namespace View.Pessoas
             dgvPessoas.DataSource = dt;
 
             conexao.Close();
+
+            txbNome.Text = dgvPessoas.Rows[0].Cells[1].Value.ToString();
+            txbEndereco.Text = dgvPessoas.Rows[0].Cells[2].Value.ToString();
+            txbEstadoCivil.Text = dgvPessoas.Rows[0].Cells[3].Value.ToString();
+            dtNascimento.Text = dgvPessoas.Rows[0].Cells[4].Value.ToString();
         }
 
-        private void PessoaListar_Load(object sender, EventArgs e)
+        private void dgvPessoas_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            txbNome.Text = dgvPessoas.Rows[e.RowIndex].Cells[1].Value.ToString();
+            txbEndereco.Text = dgvPessoas.Rows[e.RowIndex].Cells[2].Value.ToString();
+            txbEstadoCivil.Text = dgvPessoas.Rows[e.RowIndex].Cells[3].Value.ToString();
+            dtNascimento.Text = dgvPessoas.Rows[e.RowIndex].Cells[4].Value.ToString();
+        }
+
+        private void Pessoa_Load(object sender, EventArgs e)
         {
             retornarPessoas();
         }

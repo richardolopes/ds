@@ -55,7 +55,7 @@
             this.menuToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(491, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(984, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -77,27 +77,27 @@
             this.cadastrarToolStripMenuItem,
             this.editarToolStripMenuItem});
             this.pessoasToolStripMenuItem.Name = "pessoasToolStripMenuItem";
-            this.pessoasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.pessoasToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.pessoasToolStripMenuItem.Text = "Pessoas";
             // 
             // listarToolStripMenuItem
             // 
             this.listarToolStripMenuItem.Name = "listarToolStripMenuItem";
-            this.listarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.listarToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.listarToolStripMenuItem.Text = "Listar";
             this.listarToolStripMenuItem.Click += new System.EventHandler(this.listarToolStripMenuItem_Click);
             // 
             // cadastrarToolStripMenuItem
             // 
             this.cadastrarToolStripMenuItem.Name = "cadastrarToolStripMenuItem";
-            this.cadastrarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.cadastrarToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.cadastrarToolStripMenuItem.Text = "Cadastrar";
             this.cadastrarToolStripMenuItem.Click += new System.EventHandler(this.cadastrarToolStripMenuItem_Click);
             // 
             // editarToolStripMenuItem
             // 
             this.editarToolStripMenuItem.Name = "editarToolStripMenuItem";
-            this.editarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.editarToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.editarToolStripMenuItem.Text = "Editar";
             this.editarToolStripMenuItem.Click += new System.EventHandler(this.editarToolStripMenuItem_Click);
             // 
@@ -108,27 +108,27 @@
             this.cadastrarToolStripMenuItem1,
             this.editarToolStripMenuItem1});
             this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
-            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.clienteToolStripMenuItem.Text = "Clientes";
             // 
             // listarToolStripMenuItem1
             // 
             this.listarToolStripMenuItem1.Name = "listarToolStripMenuItem1";
-            this.listarToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.listarToolStripMenuItem1.Size = new System.Drawing.Size(124, 22);
             this.listarToolStripMenuItem1.Text = "Listar";
             this.listarToolStripMenuItem1.Click += new System.EventHandler(this.listarToolStripMenuItem1_Click);
             // 
             // cadastrarToolStripMenuItem1
             // 
             this.cadastrarToolStripMenuItem1.Name = "cadastrarToolStripMenuItem1";
-            this.cadastrarToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.cadastrarToolStripMenuItem1.Size = new System.Drawing.Size(124, 22);
             this.cadastrarToolStripMenuItem1.Text = "Cadastrar";
             this.cadastrarToolStripMenuItem1.Click += new System.EventHandler(this.cadastrarToolStripMenuItem1_Click);
             // 
             // editarToolStripMenuItem1
             // 
             this.editarToolStripMenuItem1.Name = "editarToolStripMenuItem1";
-            this.editarToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.editarToolStripMenuItem1.Size = new System.Drawing.Size(124, 22);
             this.editarToolStripMenuItem1.Text = "Editar";
             this.editarToolStripMenuItem1.Click += new System.EventHandler(this.editarToolStripMenuItem1_Click);
             // 
@@ -139,27 +139,27 @@
             this.cadastrarToolStripMenuItem2,
             this.editarToolStripMenuItem2});
             this.funcionáriosToolStripMenuItem.Name = "funcionáriosToolStripMenuItem";
-            this.funcionáriosToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.funcionáriosToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.funcionáriosToolStripMenuItem.Text = "Funcionários";
             // 
             // listarToolStripMenuItem2
             // 
             this.listarToolStripMenuItem2.Name = "listarToolStripMenuItem2";
-            this.listarToolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
+            this.listarToolStripMenuItem2.Size = new System.Drawing.Size(124, 22);
             this.listarToolStripMenuItem2.Text = "Listar";
             this.listarToolStripMenuItem2.Click += new System.EventHandler(this.listarToolStripMenuItem2_Click);
             // 
             // cadastrarToolStripMenuItem2
             // 
             this.cadastrarToolStripMenuItem2.Name = "cadastrarToolStripMenuItem2";
-            this.cadastrarToolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
+            this.cadastrarToolStripMenuItem2.Size = new System.Drawing.Size(124, 22);
             this.cadastrarToolStripMenuItem2.Text = "Cadastrar";
             this.cadastrarToolStripMenuItem2.Click += new System.EventHandler(this.cadastrarToolStripMenuItem2_Click);
             // 
             // editarToolStripMenuItem2
             // 
             this.editarToolStripMenuItem2.Name = "editarToolStripMenuItem2";
-            this.editarToolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
+            this.editarToolStripMenuItem2.Size = new System.Drawing.Size(124, 22);
             this.editarToolStripMenuItem2.Text = "Editar";
             this.editarToolStripMenuItem2.Click += new System.EventHandler(this.editarToolStripMenuItem2_Click);
             // 
@@ -170,27 +170,27 @@
             this.cadastrarToolStripMenuItem3,
             this.editarToolStripMenuItem3});
             this.documentosToolStripMenuItem.Name = "documentosToolStripMenuItem";
-            this.documentosToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.documentosToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.documentosToolStripMenuItem.Text = "Documentos";
             // 
             // listarToolStripMenuItem3
             // 
             this.listarToolStripMenuItem3.Name = "listarToolStripMenuItem3";
-            this.listarToolStripMenuItem3.Size = new System.Drawing.Size(152, 22);
+            this.listarToolStripMenuItem3.Size = new System.Drawing.Size(124, 22);
             this.listarToolStripMenuItem3.Text = "Listar";
             this.listarToolStripMenuItem3.Click += new System.EventHandler(this.listarToolStripMenuItem3_Click);
             // 
             // cadastrarToolStripMenuItem3
             // 
             this.cadastrarToolStripMenuItem3.Name = "cadastrarToolStripMenuItem3";
-            this.cadastrarToolStripMenuItem3.Size = new System.Drawing.Size(152, 22);
+            this.cadastrarToolStripMenuItem3.Size = new System.Drawing.Size(124, 22);
             this.cadastrarToolStripMenuItem3.Text = "Cadastrar";
             this.cadastrarToolStripMenuItem3.Click += new System.EventHandler(this.cadastrarToolStripMenuItem3_Click);
             // 
             // editarToolStripMenuItem3
             // 
             this.editarToolStripMenuItem3.Name = "editarToolStripMenuItem3";
-            this.editarToolStripMenuItem3.Size = new System.Drawing.Size(152, 22);
+            this.editarToolStripMenuItem3.Size = new System.Drawing.Size(124, 22);
             this.editarToolStripMenuItem3.Text = "Editar";
             this.editarToolStripMenuItem3.Click += new System.EventHandler(this.editarToolStripMenuItem3_Click);
             // 
@@ -198,7 +198,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(491, 360);
+            this.ClientSize = new System.Drawing.Size(984, 587);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
