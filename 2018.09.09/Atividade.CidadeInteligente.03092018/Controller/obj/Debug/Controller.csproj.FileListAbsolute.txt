@@ -6,3 +6,7 @@ C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividad
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\Controller\bin\Debug\Controller.pdb
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\Controller\obj\Debug\Controller.dll
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\Controller\obj\Debug\Controller.pdb
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\Controller\bin\Debug\Controller.dll
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\Controller\bin\Debug\Controller.pdb
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\Controller\obj\Debug\Controller.dll
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\Controller\obj\Debug\Controller.pdb

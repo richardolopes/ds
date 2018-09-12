@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnCadastrar = new System.Windows.Forms.Button();
             this.dtNascimento = new System.Windows.Forms.DateTimePicker();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -41,15 +40,6 @@
             this.btnEditar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPessoas)).BeginInit();
             this.SuspendLayout();
-            // 
-            // btnCadastrar
-            // 
-            this.btnCadastrar.Location = new System.Drawing.Point(12, 152);
-            this.btnCadastrar.Name = "btnCadastrar";
-            this.btnCadastrar.Size = new System.Drawing.Size(108, 23);
-            this.btnCadastrar.TabIndex = 19;
-            this.btnCadastrar.Text = "Cadastrar";
-            this.btnCadastrar.UseVisualStyleBackColor = true;
             // 
             // dtNascimento
             // 
@@ -127,12 +117,13 @@
             // 
             // btnEditar
             // 
-            this.btnEditar.Location = new System.Drawing.Point(126, 152);
+            this.btnEditar.Location = new System.Drawing.Point(12, 147);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(108, 23);
             this.btnEditar.TabIndex = 21;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // Pessoa
             // 
@@ -141,7 +132,6 @@
             this.ClientSize = new System.Drawing.Size(574, 489);
             this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.dgvPessoas);
-            this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.dtNascimento);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -161,7 +151,6 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnCadastrar;
         private System.Windows.Forms.DateTimePicker dtNascimento;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;

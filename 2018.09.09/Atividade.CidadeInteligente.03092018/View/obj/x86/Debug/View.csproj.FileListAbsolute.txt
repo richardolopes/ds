@@ -38,3 +38,26 @@ C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividad
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Funcionarios.FuncionarioListar.resources
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Clientes.Cadastrar.resources
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Pessoas.Pessoa.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.exe
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.pdb
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\bin\Debug\View.exe
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\bin\Debug\View.pdb
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\bin\Debug\Model.dll
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\bin\Debug\Model.pdb
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Clientes.Cadastrar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Clientes.ClienteCadastrar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Clientes.ClienteListar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Documentos.DocumentoCadastrar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Documentos.DocumentoEditar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Documentos.DocumentoListar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Funcionarios.FuncionarioCadastrar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Funcionarios.FuncionarioEditar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Funcionarios.FuncionarioListar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Home.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Pessoas.Pessoa.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Pessoas.PessoaCadastrar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Pessoas.PessoaEditar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Pessoas.PessoaListar.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Properties.Resources.resources
+C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.csproj.GenerateResource.Cache
