@@ -61,3 +61,5 @@ C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\
 C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Pessoas.PessoaListar.resources
 C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.Properties.Resources.resources
 C:\Users\Aluno\Desktop\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.csproj.GenerateResource.Cache
+C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.exe
+C:\Users\RICHARDDEOLIVEIRALOP\Documents\Visual Studio 2010\Projects\etec-ds\2018.09.09\Atividade.CidadeInteligente.03092018\View\obj\x86\Debug\View.pdb
