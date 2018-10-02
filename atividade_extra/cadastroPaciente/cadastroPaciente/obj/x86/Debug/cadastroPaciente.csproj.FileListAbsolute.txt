@@ -1,0 +1,9 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\cadastroPaciente\bin\Debug\cadastroPaciente.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\cadastroPaciente\bin\Debug\cadastroPaciente.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\cadastroPaciente\obj\x86\Debug\cadastroPaciente.Paciente.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\cadastroPaciente\obj\x86\Debug\cadastroPaciente.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\cadastroPaciente\obj\x86\Debug\cadastroPaciente.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\cadastroPaciente\obj\x86\Debug\cadastroPaciente.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\cadastroPaciente\obj\x86\Debug\cadastroPaciente.pdb
+D:\atividade_extra\cadastroPaciente\cadastroPaciente\obj\x86\Debug\cadastroPaciente.exe
+D:\atividade_extra\cadastroPaciente\cadastroPaciente\obj\x86\Debug\cadastroPaciente.pdb
